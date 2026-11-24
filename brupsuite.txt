@@ -1,0 +1,16 @@
+1. download brupsuite from link 
+
+https://s9.up4ever.download:8443/d/ahobnps7pqy52ag4cjlbcsjugwotz6chvqfc7okbptpodrkcez3kq3kkn5gzo6dxyhfmmvmw/Burp%20Suite%20Professional%20Edition%20v2026.2.1%20x64%20Full%20Activated%20%2B%20Extensions%20-%20WwW.Dr-FarFar.CoM.zip
+
+
+2.and download java22 zip (around 700mb -1gib)
+ install java22 if exist
+
+
+3. open the zip using win2rar
+in it open dr farfar
+
+4. press run
+after verification
+
+5. run shortcuts in windows manager so quickly set shortcuts
